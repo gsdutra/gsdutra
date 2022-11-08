@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 style="color: blue;">Hi there 👋</h1>
 
 <!--
 **gsdutra/gsdutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
