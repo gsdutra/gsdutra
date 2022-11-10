@@ -4,9 +4,9 @@ Let me introduce myself:
 <br />
 I'm a 20 year old programmer from Brazil and bachelor of engineering at Unicamp.
 <br />
-- Currently working on a portifolio, but meanwhile I'd love if you could check my public repositories with github pages!
+Currently working on a portifolio, but meanwhile I'd love if you could check my public repositories with github pages!
 <br />
-- FullStack Dev, using the following technologies:
+FullStack Dev, using the following technologies:
 <br />
 <br />
 Front end:
@@ -36,8 +36,8 @@ General:
 </div>
 <br />
 <br />
-<a href="#"><img alt="expeditus303's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdutra&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
 <br />
+<a href="#"><img alt="expeditus303's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdutra&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
 <br />
 <br />
 
