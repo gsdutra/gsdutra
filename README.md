@@ -36,6 +36,9 @@ General:
 </div>
 <br />
 <br />
+<a href="#"><img alt="expeditus303's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsdutra&langs_count=10&layout=compact&theme=dracula&hide_border=true&" height="160"/></a>
+<br />
+<br />
 <br />
 
 Contact me!
