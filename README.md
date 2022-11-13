@@ -1,7 +1,5 @@
 ## Hello world!
 <br />
-Let me introduce myself:
-<br />
 I'm a 20 year old programmer from Brazil and bachelor of engineering at Unicamp.
 <br />
 Currently working on a portifolio, but meanwhile I'd love if you could check my public repositories with github pages!
