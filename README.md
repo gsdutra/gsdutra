@@ -41,9 +41,15 @@ General:
 
 Contact me!
 <br />
+<a target="_blank">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-sprecher-dutra-20115a199/)](https://www.linkedin.com/in/gabriel-sprecher-dutra-20115a199/)
+  </a>
+<a target="_blank">
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gabrielsprecherdutra@gmail.com)](mailto:gabrielsprecherdutra@gmail.com)
-![image](https://img.shields.io/badge/-WhatsApp-Green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/5511989198877)
+  </a>
+<a target="_blank">
+[![image](https://img.shields.io/badge/-WhatsApp-Green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/5511989198877)](https://wa.me/5511989198877)
+  </a>
 
 <br />
 <br />
