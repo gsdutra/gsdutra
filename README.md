@@ -53,4 +53,4 @@ Contact me!
   </a>
 
 <br />
-<br />
+<br /> 
