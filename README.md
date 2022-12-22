@@ -1,6 +1,6 @@
 ## Hello world!
+"I press squares and magic box do things"
 <br />
-"I just press squares and magic box do things"
 <br />
 I'm a 20 year old programmer from Brazil and bachelor of engineering at Unicamp.
 <br />
