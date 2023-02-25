@@ -27,7 +27,7 @@ Back end:
 </div>
 <br />
 <br />
-Databases:
+Databases: (noSQL & SQL)
 <div style="vertical-align: middle;">
   <img align="left" alt="mongodb" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png?w=256&f=avif" />
   <img align="left" alt="mysql" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png?w=256&f=avif" />
