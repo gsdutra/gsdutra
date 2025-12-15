@@ -1,12 +1,7 @@
 ## Hello world!
 "I press squares and magic box do things"
 <br />
-<br />
-I'm a 23 year old programmer from Brazil and bachelor of engineering at Unicamp.
-<br />
-Currently working on a portifolio, but meanwhile I'd love if you could check my pinned repositories!
-<br />
-FullStack Dev, using the following technologies:
+Software engineer from Brazil
 <br />
 <br />
 Front end:
